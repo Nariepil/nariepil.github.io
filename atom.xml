@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-19T06:50:26.228Z</updated>
+  <updated>2017-12-19T07:00:03.902Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>second</title>
+    <link href="http://yoursite.com/2017/12/19/second/"/>
+    <id>http://yoursite.com/2017/12/19/second/</id>
+    <published>2017-12-19T06:56:25.748Z</published>
+    <updated>2017-12-19T07:00:03.902Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Welcome-to-Second"><a href="#Welcome-to-Second" class="headerlink" title="Welcome to Second"></a>Welcome to Second</h2><p><strong>Second</strong> is a Second Blog.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Welcome-to-Second&quot;&gt;&lt;a href=&quot;#Welcome-to-Second&quot; class=&quot;headerlink&quot; title=&quot;Welcome to Second&quot;&gt;&lt;/a&gt;Welcome to Second&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Se
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>new day</title>
